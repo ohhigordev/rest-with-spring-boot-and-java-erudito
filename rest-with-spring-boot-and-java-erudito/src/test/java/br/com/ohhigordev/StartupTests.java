@@ -1,4 +1,4 @@
 package br.com.ohhigordev;
 
-public class StarttupTests {
+public class StartupTests {
 }
